@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/status_color</item>
+        <!-- Customize your theme here. -->
+        <!-- actionbar颜色 -->
+        <item name="colorPrimary">@color/actionbar_color</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/status_color</item>
+        <!-- 对应EditText编辑时、RadioButton选中、CheckBox等选中时的颜色。 -->
+        <item name="colorAccent">@color/accent_color</item>
+    </style>
+
+</resources>
